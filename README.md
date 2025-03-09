@@ -28,8 +28,7 @@ Persyaratan
 Python 3
 Library: pandas, numpy, matplotlib, seaborn
 
-Kontribusi
-Kontribusi sangat diterima! Silakan buka issue atau ajukan pull request.
-
-Lisensi
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat LICENSE untuk detailnya.
+Aboutme : 
+- Instagram: fachry_mohammad
+- email: fachry240702@gmail.com
+- LinkedIn: www.linkedin.com/in/mrikzanf
